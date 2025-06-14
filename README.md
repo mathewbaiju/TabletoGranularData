@@ -1,4 +1,4 @@
-# Table to Granular Data Analyzer
+# Extract granular Information from a confluence table and make reports for Slack posts
 
 ## Overview
 This tool helps Program Managers analyze and visualize ownership distribution across teams. It's particularly useful for understanding resource allocation, workload distribution, and identifying potential bottlenecks in team assignments.
